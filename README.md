@@ -24,7 +24,7 @@ View(data_lattice)
 cloud(W ~ X*Y, groups=data_lattice$Z, data_lattice)
 ```
 # Screen Cast
-![Record] (http://g.recordit.co/UDHOc17Jbo.gif)
+![Record](http://g.recordit.co/UDHOc17Jbo.gif)
 
 # Authors
 - Mridul
