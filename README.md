@@ -1,5 +1,6 @@
 # Introduction
-This is a task from Google Code-In
+This is a task from Google Code-In.
+Here is how to make a scatter plot with three variables and the split them with another variable.
 # Requirements
 
 - R
